@@ -1,0 +1,28 @@
+#########################################
+# Broker Ruleset - 富途牛牛
+# Last Updated: 2026-07-28T19:03:57.000Z
+# Size: 18
+# License: MPL-2.0
+# GitHub: https://github.com/AganV/broker-ruleset
+#
+# This file contains domains and IP addresses used by Futubull.
+#########################################
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futustatic.com
+IP-CIDR,43.135.64.109/32,no-resolve
+IP-CIDR,43.145.32.151/32,no-resolve
+IP-CIDR,43.153.233.166/32,no-resolve
+IP-CIDR,43.153.233.212/32,no-resolve
+IP-CIDR,43.159.176.161/32,no-resolve
+IP-CIDR,49.51.78.82/32,no-resolve
+IP-CIDR,101.33.192.94/32,no-resolve
+IP-CIDR,106.55.67.68/32,no-resolve
+IP-CIDR,119.28.183.55/32,no-resolve
+IP-CIDR,119.91.245.125/32,no-resolve
+IP-CIDR,121.5.97.110/32,no-resolve
+IP-CIDR,124.156.124.214/32,no-resolve
+IP-CIDR,170.106.49.68/32,no-resolve
+IP-CIDR,170.106.49.111/32,no-resolve
+################## EOF ##################
