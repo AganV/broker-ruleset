@@ -1,15 +1,15 @@
 #########################################
 # Broker Ruleset - Futubull
-# Last Updated: 2026-07-28T19:38:32.000Z
+# Last Updated: 2026-07-28T19:39:59.000Z
 # Size: 18
 # License: MPL-2.0
 # GitHub: https://github.com/AganV/broker-ruleset
 #
 # This file contains domains and IP addresses used by Futubull.
 #########################################
-DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futustatic.com
 IP-CIDR,43.135.64.109/32,no-resolve
 IP-CIDR,43.145.32.151/32,no-resolve
