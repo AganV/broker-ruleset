@@ -1,7 +1,7 @@
 #########################################
 # Broker Ruleset - Futubull
-# Last Updated: 2026-08-01T16:31:24.000Z
-# Size: 100
+# Last Updated: 2026-08-01T16:35:40.000Z
+# Size: 102
 # License: MPL-2.0
 # GitHub: https://github.com/AganV/broker-ruleset
 #
@@ -41,6 +41,7 @@ IP-CIDR,43.153.233.241/32,no-resolve
 IP-CIDR,43.159.160.59/32,no-resolve
 IP-CIDR,43.159.176.161/32,no-resolve
 IP-CIDR,43.159.176.177/32,no-resolve
+IP-CIDR,43.159.176.188/32,no-resolve
 IP-CIDR,43.159.177.6/32,no-resolve
 IP-CIDR,43.159.177.14/32,no-resolve
 IP-CIDR,43.159.177.204/32,no-resolve
@@ -63,6 +64,7 @@ IP-CIDR,106.55.66.56/32,no-resolve
 IP-CIDR,106.55.67.68/32,no-resolve
 IP-CIDR,106.55.219.21/32,no-resolve
 IP-CIDR,111.230.119.192/32,no-resolve
+IP-CIDR,111.230.214.196/32,no-resolve
 IP-CIDR,111.230.214.240/32,no-resolve
 IP-CIDR,114.132.28.66/32,no-resolve
 IP-CIDR,118.25.86.218/32,no-resolve
