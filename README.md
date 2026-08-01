@@ -5,8 +5,11 @@
 **Surge**
 
 ```ini
+DOMAIN,softwaredownload.futunn.com,DIRECT
 RULE-SET,https://raw.githubusercontent.com/AganV/broker-ruleset/main/Futubull.list,[Replace with your policy]
 ```
+
+富途软件更新下载域名优先直连，并应置于主分流规则之前。后续直连域名增多时再整理为独立规则集。
 
 ## 许可证
 
